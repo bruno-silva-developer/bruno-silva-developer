@@ -1,10 +1,10 @@
 ### Olá, me chamo Bruno...um apaixonado pela tecnologia. 👋
 
-<div>
+<!--<div>
 <a href="https://github.com/bruno-silva-developer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-silva-developer&include_all_commits=true&count_private=true&show_icons=true&theme=merko" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-silva-developer&theme=merko&layout=compact" />
-</div>
+</div>-->
 
 
 <div style="display:inline_block"><br>
